@@ -1,7 +1,5 @@
 import java.io.Serializable;
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-import java.util.Formatter;
 import java.util.Scanner;
 
 public class User implements Serializable{
